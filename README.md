@@ -34,10 +34,10 @@ In this school district analysis our Python and Pandas script replaced the Thoma
 
 ### Four Changes
 
-1. Average math exam score is one-tenth a percent lower for the district.
-2. Thomas High School students who passed the math exam is two-tenths a percent lower.
-3. Thomas High School students who passed the reading exam is three-tenths a percent lower.
-4. The total percent of students who passed both the math and reading exams for the district was lowered by one-tenth a percent.
+1. The total percent of students who passed both the math and reading exams for the district was lowered by one-tenth a percent.
+2. Thomas High School students who passed the reading exam is three-tenths a percent lower.
+3. Thomas High School students who passed the math exam is two-tenths a percent lower.
+4. Average math exam score is one-tenth a percent lower for the district.
 
 
 
